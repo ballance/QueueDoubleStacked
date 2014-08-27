@@ -1,0 +1,5 @@
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked\bin\Debug\QueueDoubleStacked.dll.config
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked\bin\Debug\QueueDoubleStacked.dll
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked\bin\Debug\QueueDoubleStacked.pdb
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked\obj\Debug\QueueDoubleStacked.dll
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked\obj\Debug\QueueDoubleStacked.pdb

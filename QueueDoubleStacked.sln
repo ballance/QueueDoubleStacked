@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueDoubleStacked", "QueueDoubleStacked\QueueDoubleStacked.csproj", "{95633B04-B7B7-4FE6-ACD7-CFA5D4517EEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueDoubleStacked.Test", "QueueDoubleStacked.Test\QueueDoubleStacked.Test.csproj", "{38729B6B-C7A3-479B-9D01-7BFB6D17A0E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95633B04-B7B7-4FE6-ACD7-CFA5D4517EEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95633B04-B7B7-4FE6-ACD7-CFA5D4517EEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95633B04-B7B7-4FE6-ACD7-CFA5D4517EEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95633B04-B7B7-4FE6-ACD7-CFA5D4517EEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38729B6B-C7A3-479B-9D01-7BFB6D17A0E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38729B6B-C7A3-479B-9D01-7BFB6D17A0E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38729B6B-C7A3-479B-9D01-7BFB6D17A0E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38729B6B-C7A3-479B-9D01-7BFB6D17A0E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

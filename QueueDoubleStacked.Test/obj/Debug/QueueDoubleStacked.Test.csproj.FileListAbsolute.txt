@@ -1,0 +1,7 @@
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked.Test\bin\Debug\QueueDoubleStacked.Test.dll
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked.Test\bin\Debug\QueueDoubleStacked.dll
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked.Test\bin\Debug\QueueDoubleStacked.pdb
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked.Test\obj\Debug\QueueDoubleStacked.Test.csprojResolveAssemblyReference.cache
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked.Test\obj\Debug\QueueDoubleStacked.Test.dll
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked.Test\obj\Debug\QueueDoubleStacked.Test.pdb
+C:\home\code\personal\QueueDoubleStacked\QueueDoubleStacked.Test\bin\Debug\QueueDoubleStacked.Test.pdb
